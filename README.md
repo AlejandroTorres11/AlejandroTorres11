@@ -9,13 +9,9 @@ Soy Alejandro
 
 ### 🛠️ Herramientas y Tecnologías:
 <p>
+  <img src="https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
   <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=ffd343" />
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java&logoColor=007396" />
 </p>
 
 ### 📈 Mi GitHub Stats:
