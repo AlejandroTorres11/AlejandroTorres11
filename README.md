@@ -16,8 +16,8 @@ Soy Alejandro
 
 ### 📈 Mi GitHub Stats:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlejandroTorres11&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroTorres11&layout=compact&theme=vue-dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlejandroTorres11&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&title_color=FFA500&text_color=00FF00" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroTorres11&layout=compact&theme=vue-dark&hide_border=true&title_color=FFA500&text_color=00FF00&bg_color=0d1117&langs_count=3" />
 </p>
 
 ### 🌍 Encuéntrame en:
