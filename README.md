@@ -20,7 +20,7 @@ Soy Alejandro
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroTorres11&layout=compact&theme=vue-dark&hide_border=true" />
 </p>
 
-### 🌍 Encuéntrame en:
+### 🌍 Redes:
 <p align="center">
   <a href="[https://www.linkedin.com/in/alejandrotorres11](https://www.linkedin.com/in/alejandro-torres-122835256/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
