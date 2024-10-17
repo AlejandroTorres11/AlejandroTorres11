@@ -1,16 +1,42 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="200" height="200" />
+</p>
 
-<!--
-**AlejandroTorres11/AlejandroTorres11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Acerca de mí
+Soy un apasionado desarrollador de software con interés en resolver problemas complejos y construir aplicaciones creativas. Siempre estoy buscando aprender algo nuevo y mejorar mis habilidades. 💻
 
-Here are some ideas to get you started:
+- 🔭 Actualmente trabajando en: **[tu proyecto actual o empresa]**
+- 🌱 Aprendiendo sobre: **Tecnologías web, Python, IA, y mucho más**
+- 👯 Me encantaría colaborar en: **Proyectos open-source y nuevas ideas innovadoras**
+- 🤔 Buscando ayuda en: **Optimización de rendimiento y arquitecturas de software escalables**
+- 💬 Pregúntame sobre: **Desarrollo de aplicaciones, lógica de programación o mejores prácticas en desarrollo**
+- 📫 Cómo contactarme: **[Tu correo o LinkedIn]**
+- 😄 Pronombres: **Él/Él**
+- ⚡ Dato curioso: **Me encantan los videojuegos retro y el café ☕**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Herramientas y Tecnologías:
+<p>
+  <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=ffd343" />
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql" />
+</p>
+
+### 📈 Mi GitHub Stats:
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlejandroTorres11&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroTorres11&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+### 🌍 Encuéntrame en:
+<p align="center">
+  <a href="https://www.linkedin.com/in/alejandrotorres11" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:alejandro.torres11@email.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
