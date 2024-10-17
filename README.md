@@ -22,7 +22,7 @@ Soy Alejandro
 
 ### 🌍 Encuéntrame en:
 <p align="center">
-  <a href="https://www.linkedin.com/in/alejandrotorres11" target="_blank">
+  <a href="[https://www.linkedin.com/in/alejandrotorres11](https://www.linkedin.com/in/alejandro-torres-122835256/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:alejandro.torres11@email.com">
