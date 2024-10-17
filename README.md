@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGwHEUCGILzH8n2/giphy.gif" width="200" height="200" />
+  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="200" height="200" />
 </p>
+
 ### 🚀 Acerca de mí
 Soy Alejandro
 - 🔭 Actualmente trabajando en: **[tu proyecto actual o empresa]**
