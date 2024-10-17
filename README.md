@@ -3,16 +3,9 @@
 </p>
 
 ### 🚀 Acerca de mí
-Soy un apasionado desarrollador de software con interés en resolver problemas complejos y construir aplicaciones creativas. Siempre estoy buscando aprender algo nuevo y mejorar mis habilidades. 💻
-
+Soy Alejandro
 - 🔭 Actualmente trabajando en: **[tu proyecto actual o empresa]**
-- 🌱 Aprendiendo sobre: **Tecnologías web, Python, IA, y mucho más**
-- 👯 Me encantaría colaborar en: **Proyectos open-source y nuevas ideas innovadoras**
-- 🤔 Buscando ayuda en: **Optimización de rendimiento y arquitecturas de software escalables**
-- 💬 Pregúntame sobre: **Desarrollo de aplicaciones, lógica de programación o mejores prácticas en desarrollo**
 - 📫 Cómo contactarme: **[Tu correo o LinkedIn]**
-- 😄 Pronombres: **Él/Él**
-- ⚡ Dato curioso: **Me encantan los videojuegos retro y el café ☕**
 
 ### 🛠️ Herramientas y Tecnologías:
 <p>
