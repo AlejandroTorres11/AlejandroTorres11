@@ -1,12 +1,4 @@
-<style>
-  @font-face {
-    font-family: "MedievalSharp";
-    src: url('ruta/a/tu/fuente/MedievalSharp.ttf') format('truetype');
-  }
-  body {
-    font-family: "MedievalSharp", serif;
-  }
-</style>
+
 ![Foto de perfil](./images/ryanminecraft.png)
 
 
