@@ -1,19 +1,11 @@
-<style>
-  @font-face {
-    font-family: "MedievalSharp";
-    src: url('ruta/a/tu/fuente/MedievalSharp.ttf') format('truetype');
-  }
-  body {
-    font-family: "MedievalSharp", serif;
-  }
-</style>
+
 ![Foto de perfil](./images/ryanminecraft.png)
 
 
 ### 💻🐵 Acerca de mí
 Soy Alejandro
 - 🔭 Actualmente trabajando en: **[tu proyecto actual o empresa]**
-- 📫 Cómo contactarme: **[Tu correo o LinkedIn]**
+- 📫 Cómo contactarme: https://www.linkedin.com/in/alejandro-torres-122835256/
 
 ### 🛠️ Herramientas y Tecnologías:
 <p>
@@ -42,7 +34,7 @@ Soy Alejandro
 
 ### 🌍 Redes:
 <p align="center">
-  <a href="[https://www.linkedin.com/in/alejandrotorres11](https://www.linkedin.com/in/alejandro-torres-122835256/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/alejandrotorres11]()" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:alejandro.torres11@email.com">
