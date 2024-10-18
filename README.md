@@ -1,6 +1,16 @@
+<style>
+  @font-face {
+    font-family: "MedievalSharp";
+    src: url('ruta/a/tu/fuente/MedievalSharp.ttf') format('truetype');
+  }
+  body {
+    font-family: "MedievalSharp", serif;
+  }
+</style>
+![Foto de perfil](./images/ryanminecraft.png)
 
 
-### 🚀 Acerca de mí
+### 💻🐵 Acerca de mí
 Soy Alejandro
 - 🔭 Actualmente trabajando en: **[tu proyecto actual o empresa]**
 - 📫 Cómo contactarme: **[Tu correo o LinkedIn]**
@@ -11,6 +21,7 @@ Soy Alejandro
   <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=ffd343" />
   <img src="https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java&logoColor=007396" />
 </p>
+
 
 ### 📈 GitHub Stats:
 <p align="center">
@@ -27,3 +38,4 @@ Soy Alejandro
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
