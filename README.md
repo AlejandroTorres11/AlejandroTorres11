@@ -1,7 +1,3 @@
-
-![Foto de perfil](./images/ryanminecraft.png)
-
-
 ### 💻🐵 Acerca de mí
 Soy Alejandro
 - 🔭 Actualmente trabajando en: **[tu proyecto actual o empresa]**
