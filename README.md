@@ -1,7 +1,6 @@
 ### 💻🐵 Acerca de mí
 Soy Alejandro
-- 🔭 Actualmente trabajando en: **[tu proyecto actual o empresa]**
-- 📫 Cómo contactarme: https://www.linkedin.com/in/alejandro-torres-122835256/
+- Cómo contactarme: https://www.linkedin.com/in/alejandro-torres-122835256/
 
 ### 🛠️ Herramientas y Tecnologías:
 <p>
