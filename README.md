@@ -13,7 +13,7 @@
 
 #  About me 🐵⚜️
 
-### 🎓 Computer science student
+### 🎓 I`m a spanish computer science student
 <br>
 
 #  Tools and technologies 🛠️
