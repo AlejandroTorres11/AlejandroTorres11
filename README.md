@@ -13,6 +13,8 @@
 
 ### 🎓 I`m a spanish computer science student
 
+<br>
+
 # Tools and technologies 🛠️
 
 ### Programming languages
