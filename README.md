@@ -34,8 +34,6 @@
 <img src="https://skillicons.dev/icons?i=mysql" />
 <br><b>PSQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL
 
-### Version control
-
 ### Frameworks / Libraries
 
 <p>
