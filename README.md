@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋 I'm Alejandro </h1> 
-<p align="left">
+<h1 align="center">Hi 👋 I'm Alejandro</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alejandro-torres-122835256/" target="_blank">
@@ -14,102 +13,60 @@
 
 ### 🎓 I`m a spanish computer science student
 
-<br>
-
 # Tools and technologies 🛠️
 
 ### Programming languages
 
-<div>
-  <div style="display:inline-block; width:60px;">
-    <img src="https://skillicons.dev/icons?i=python" /><br>
-    <b>Python</b>
-  </div>
-  <div style="display:inline-block; width:65px;">
-    <img src="https://skillicons.dev/icons?i=cpp" /><br>
-    <b>C++</b>
-  </div>
-  <div style="display:inline-block; width:65px;">
-    <img src="https://skillicons.dev/icons?i=c" /><br>
-    <b>C</b>
-  </div>
-  <div style="display:inline-block; width:65px;">
-    <img src="https://skillicons.dev/icons?i=cs" /><br>
-    <b>C#</b>
-  </div>
-  <div style="display:inline-block; width:65px;">
-    <img src="https://skillicons.dev/icons?i=java" /><br>
-    <b>Java</b>
-  </div>
-  <div style="display:inline-block; width:65px;">
-    <img src="https://skillicons.dev/icons?i=javascript" /><br>
-    <b>JavaScript</b>
-  </div>
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=cs" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<br><b>Python&nbsp;&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;&nbsp;JavaScript
+
+</p>
 
 ### SQL Databases
 
-<div >
-  <div style="display:inline-block; width:165px;">
-    <img src="https://skillicons.dev/icons?i=mysql" /><br>
-    <b>MySQL</b>
-  </div>
-  <div style="display:inline-block; width:165px;">
-    <img src="https://skillicons.dev/icons?i=postgres" /><br>
-    <b>PostgreSQL</b>
-  </div>
-</div>
+<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<br><b>PSQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL
 
-### FrameWorks/Libraries
+### Version control
 
-<div >
-  <div style="display:inline-block; width:165px;">
-    <img src="https://skillicons.dev/icons?i=react" /><br>
-    <b>React</b>
-  </div>
-</div>
+### Frameworks / Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <br><b>React</b></br>
+</p>
 
 ### Others
 
-<div >
-  <div style="display:inline-block; width:65px;">
-    <img src="https://skillicons.dev/icons?i=git" /><br>
-    <b>Git</b>
-  </div>
-  <div style="display:inline-block; width:65px;">
-    <img src="https://skillicons.dev/icons?i=github" /><br>
-    <b>GitHub</b>
-  </div>
-  <div style="display:inline-block; width:65px;">
-    <img src="https://skillicons.dev/icons?i=linux" /><br>
-    <b>Linux</b>
-  </div>
-  <div style="display:inline-block; width:65px;">
-    <img src="https://skillicons.dev/icons?i=unity" /><br>
-    <b>Unity</b>
-  </div>
-  <div style="display:inline-block; width:65px;">
-    <img src="https://skillicons.dev/icons?i=aws" /><br>
-    <b>AWS</b>
-  </div>
-  <div style="display:inline-block; width:65px;">
-    <img src="https://skillicons.dev/icons?i=bash" /><br>
-    <b>Bash</b>
-  </div>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
+  <br><b>&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;GitHub&nbsp;&nbsp;Linux&nbsp;&nbsp;Unity&nbsp;&nbsp;AWS&nbsp;&nbsp;&nbsp;Bash
+  
+</p>
+
+---
 
 ### GitHub Stats 📈
 
-<p></p>
-<table>
+<table align="center">
   <tr>
-    <td>
+    <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlejandroTorres11&theme=react&hide_border=true" alt="Repos Per Language">
     </td>
-    <td>
-      <img 
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlejandroTorres11&theme=react&layout=compact" 
-      />
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlejandroTorres11&theme=react&layout=compact" alt="Top Langs" />
     </td>
   </tr>
 </table>
