@@ -21,64 +21,40 @@
 ### Programming languages
 
 <div>
-  <div style="display:inline-block; margin: 0 5px;">
+  <div style="display:inline-block; width:60px;">
     <img src="https://skillicons.dev/icons?i=python" /><br>
     <b>Python</b>
   </div>
-  <div style="display:inline-block; margin: 0 5px;">
+  <div style="display:inline-block; width:65px;">
     <img src="https://skillicons.dev/icons?i=cpp" /><br>
-    <p align='center'>
-      <b>
-       C++
-      </b>
-    </p>
+    <b>C++</b>
   </div>
-  <div style="display:inline-block; margin: 0 5px;">
+  <div style="display:inline-block; width:65px;">
     <img src="https://skillicons.dev/icons?i=c" /><br>
-    <p align='center'>
-      <b>
-       C
-      </b>
-    </p>
+    <b>C</b>
   </div>
-  <div style="display:inline-block; margin: 0 5px;">
+  <div style="display:inline-block; width:65px;">
     <img src="https://skillicons.dev/icons?i=cs" /><br>
-    <p align='center'>
-      <b>
-       C#
-      </b>
-    </p>
+    <b>C#</b>
   </div>
-  <div style="display:inline-block; margin: 0 5px;">
+  <div style="display:inline-block; width:65px;">
     <img src="https://skillicons.dev/icons?i=java" /><br>
-    <p align='center'>
-      <b>
-       Java
-      </b>
-    </p>
+    <b>Java</b>
   </div>
-  <div style="display:inline-block; margin: 0 5px;">
+  <div style="display:inline-block; width:65px;">
     <img src="https://skillicons.dev/icons?i=javascript" /><br>
-    <p align='center'>
-      <b>
-       JavaScript
-      </b>
-    </p>
+    <b>JavaScript</b>
   </div>
 </div>
 
 ### SQL Databases
 
-<div>
-  <div style="display:inline-block; margin: 0 5px;">
+<div >
+  <div style="display:inline-block; width:165px;">
     <img src="https://skillicons.dev/icons?i=mysql" /><br>
-    <p align='center'>
-      <b>
-       MySQL
-      </b>
-    </p>
+    <b>MySQL</b>
   </div>
-  <div style="display:inline-block; margin: 0 5px;">
+  <div style="display:inline-block; width:165px;">
     <img src="https://skillicons.dev/icons?i=postgres" /><br>
     <b>PostgreSQL</b>
   </div>
@@ -86,41 +62,37 @@
 
 ### FrameWorks/Libraries
 
-<div>
-  <div style="display:inline-block; margin: 0 5px;">
+<div >
+  <div style="display:inline-block; width:165px;">
     <img src="https://skillicons.dev/icons?i=react" /><br>
-    <p align='center'>
-      <b>
-       React
-      </b>
-    </p>
+    <b>React</b>
   </div>
 </div>
 
 ### Others
 
 <div >
-<div style="display:inline-block; margin: 0 5px;">
+  <div style="display:inline-block; width:65px;">
     <img src="https://skillicons.dev/icons?i=git" /><br>
     <b>Git</b>
   </div>
-  <div style="display:inline-block; margin: 0 5px;">
+  <div style="display:inline-block; width:65px;">
     <img src="https://skillicons.dev/icons?i=github" /><br>
     <b>GitHub</b>
   </div>
-  <div style="display:inline-block; margin: 0 5px;">
+  <div style="display:inline-block; width:65px;">
     <img src="https://skillicons.dev/icons?i=linux" /><br>
     <b>Linux</b>
   </div>
-  <div style="display:inline-block; margin: 0 5px;">
+  <div style="display:inline-block; width:65px;">
     <img src="https://skillicons.dev/icons?i=unity" /><br>
     <b>Unity</b>
   </div>
-  <div style="display:inline-block; margin: 0 5px;">
+  <div style="display:inline-block; width:65px;">
     <img src="https://skillicons.dev/icons?i=aws" /><br>
     <b>AWS</b>
   </div>
-  <div style="display:inline-block; margin: 0 5px;">
+  <div style="display:inline-block; width:65px;">
     <img src="https://skillicons.dev/icons?i=bash" /><br>
     <b>Bash</b>
   </div>
