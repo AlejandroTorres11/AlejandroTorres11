@@ -10,43 +10,124 @@
   </a>
 </p>
 
-
-#  About me 🐵⚜️
+# About me 🐵⚜️
 
 ### 🎓 I`m a spanish computer science student
+
 <br>
 
-#  Tools and technologies 🛠️
+# Tools and technologies 🛠️
+
 ### Programming languages
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=cs" />
-<img src="https://skillicons.dev/icons?i=java" />
-<br><b>Python&nbsp;&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java 
-</p>
+
+<div>
+  <div style="display:inline-block; margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=python" /><br>
+    <b>Python</b>
+  </div>
+  <div style="display:inline-block; margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=cpp" /><br>
+    <p align='center'>
+      <b>
+       C++
+      </b>
+    </p>
+  </div>
+  <div style="display:inline-block; margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=c" /><br>
+    <p align='center'>
+      <b>
+       C
+      </b>
+    </p>
+  </div>
+  <div style="display:inline-block; margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=cs" /><br>
+    <p align='center'>
+      <b>
+       C#
+      </b>
+    </p>
+  </div>
+  <div style="display:inline-block; margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=java" /><br>
+    <p align='center'>
+      <b>
+       Java
+      </b>
+    </p>
+  </div>
+  <div style="display:inline-block; margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=javascript" /><br>
+    <p align='center'>
+      <b>
+       JavaScript
+      </b>
+    </p>
+  </div>
+</div>
 
 ### SQL Databases
-<img src="https://skillicons.dev/icons?i=postgres" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<br><b>PSQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL
 
-### Version control
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<br><b>&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub
+<div>
+  <div style="display:inline-block; margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=mysql" /><br>
+    <p align='center'>
+      <b>
+       MySQL
+      </b>
+    </p>
+  </div>
+  <div style="display:inline-block; margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=postgres" /><br>
+    <b>PostgreSQL</b>
+  </div>
+</div>
+
+### FrameWorks/Libraries
+
+<div>
+  <div style="display:inline-block; margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=react" /><br>
+    <p align='center'>
+      <b>
+       React
+      </b>
+    </p>
+  </div>
+</div>
 
 ### Others
-<img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://skillicons.dev/icons?i=unity" />
-<img src="https://skillicons.dev/icons?i=aws" />
-<img src="https://skillicons.dev/icons?i=bash" />
-<br><b>Linux&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unity&nbsp;&nbsp;&nbsp;AWS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bash
 
-<br>
+<div >
+<div style="display:inline-block; margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=git" /><br>
+    <b>Git</b>
+  </div>
+  <div style="display:inline-block; margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=github" /><br>
+    <b>GitHub</b>
+  </div>
+  <div style="display:inline-block; margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=linux" /><br>
+    <b>Linux</b>
+  </div>
+  <div style="display:inline-block; margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=unity" /><br>
+    <b>Unity</b>
+  </div>
+  <div style="display:inline-block; margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=aws" /><br>
+    <b>AWS</b>
+  </div>
+  <div style="display:inline-block; margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=bash" /><br>
+    <b>Bash</b>
+  </div>
+</div>
 
 ### GitHub Stats 📈
+
 <p></p>
 <table>
   <tr>
@@ -60,5 +141,3 @@
     </td>
   </tr>
 </table>
-
-
