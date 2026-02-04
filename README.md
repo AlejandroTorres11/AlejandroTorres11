@@ -54,7 +54,9 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlejandroTorres11&theme=react&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroTorres11&layout=compact&theme=react&hide_border=true&langs_count=5" />
+      <img 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlejandroTorres11&theme=react&layout=compact" 
+      />
     </td>
   </tr>
 </table>
