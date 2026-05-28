@@ -11,7 +11,7 @@
 
 # About me 🐵⚜️
 
-### 🎓 I`m a spanish computer science student
+### 🎓 I`m a spanish computer science graduate and Software Engineer Intern
 
 <br>
 
